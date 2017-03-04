@@ -7,5 +7,10 @@
   "main": "app.js",
   "repository": "https://github.com/503945930/jenkins-nodejs-demo.git",
   "author": "503945930 <503945930@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.0",
+    "supertest": "^3.0.0"
+  }
 }
